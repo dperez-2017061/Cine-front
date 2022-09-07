@@ -1,0 +1,14 @@
+.asientos{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 510px;
+}
+
+.contenedor{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
